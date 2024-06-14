@@ -1573,6 +1573,7 @@ a {
   flex-direction: column;
   align-items: flex-end;
   display: flex;
+  margin-bottom: 7vw;
 }
 
 .image-23 {
@@ -1948,11 +1949,11 @@ a {
 }
 
 .image-41 {
-  max-width: 80vw;
+  max-width: 65vw;
 }
 
 .image-42 {
-  max-width: 85vw;
+  max-width: 70vw;
 }
 
 .image-43 {
@@ -2044,6 +2045,11 @@ a {
 
 .media-wrapper-2.off-the-grid {
   background-image: url('../images/off-the-grid-mockup-copia-più-larga.jpg');
+  background-position: 50%;
+}
+
+.media-wrapper-2.flos {
+  background-image: url('../images/flos-image-logo.jpg');
   background-position: 50%;
 }
 
