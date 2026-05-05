@@ -1277,6 +1277,16 @@ a {
   display: flex;
 }
 
+.button-eui {
+  color: #000;
+  -webkit-text-stroke-color: black;
+  background-color: #6178DE;
+  border-radius: 20vw;
+  padding: 1.2vw 2vw;
+  font-family: Suisse intl, sans-serif;
+  font-size: 1.4vw;
+}
+
 .button {
   color: #000;
   -webkit-text-stroke-color: black;
