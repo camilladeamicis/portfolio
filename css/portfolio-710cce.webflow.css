@@ -1277,6 +1277,16 @@ a {
   display: flex;
 }
 
+.button-eui {
+  color: #000;
+  -webkit-text-stroke-color: black;
+  background-color: #6178DE;
+  border-radius: 20vw;
+  padding: 1.2vw 2vw;
+  font-family: Suisse intl, sans-serif;
+  font-size: 1.4vw;
+}
+
 .button {
   color: #000;
   -webkit-text-stroke-color: black;
@@ -1642,7 +1652,7 @@ a {
 }
 
 .scroll-inner {
-  width: 400vw;
+  width: 480vw;
   height: 100%;
   align-items: flex-end;
   padding-left: 4vw;
@@ -2009,12 +2019,12 @@ a {
 }
 
 .scroll-inner-2 {
-  width: 300vw;
+  width: 380vw;
   height: 100%;
   cursor: none;
   align-items: flex-end;
   padding-left: 4vw;
-  padding-right: 30%;
+  padding-right: 42%;
   display: flex;
 }
 
@@ -2030,6 +2040,12 @@ a {
   bottom: auto;
   left: 0%;
   right: 0%;
+}
+
+.media-wrapper-2.eui {
+  background-image: url('../images/EUI-thumbnail.jpg');
+  background-position: 50%;
+  background-size: cover;
 }
 
 .media-wrapper-2.diggo {
@@ -3432,7 +3448,7 @@ a {
   }
 
   .scroll-inner-2 {
-    width: 300vw;
+    width: 330vw;
   }
 
   ._1card-hover {
